@@ -178,12 +178,12 @@ def harris_corners(image, counter):
 
 
 def main():
-    image_list = ["checkerboard.png", "square_on_square.png", "selfie.png", "puzzle.png", "landscape.png", "league.png"]
+    image_list = [""]
     for i in image_list:
         image = cv2.imread(i)
         harris_corners(image, image_list.index(i))
     cv2.waitKey(0)
-    # wait until program finishes running, it will create 24 new images
+    # wait until program finishes running, it will create and display 24 new images
 
 
 main()
