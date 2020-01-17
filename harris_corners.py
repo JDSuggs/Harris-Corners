@@ -178,7 +178,7 @@ def harris_corners(image, counter):
 
 
 def main():
-    image_list = ["checkerboard.png", "square_on_square.png", "selfie.png", "puzzle.png", "landscape.png", "league.png"]
+    image_list = ["checkerboard.png", "square.png", "zeus.png", "puzzle.png", "landscape.png", "league.png"]
     for i in image_list:
         image = cv2.imread(i)
         harris_corners(image, image_list.index(i))
