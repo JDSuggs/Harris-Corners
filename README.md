@@ -1,7 +1,15 @@
 # Harris-Corners
 
 Finds corners in images using Harris Corner Detection.  
-Creates new images showing corners found.  
+Creates new images showing corners found.
+
+## Original Checkerboard Pattern
+
+![Checkerboard Before](https://github.com/JDSuggs/Harris-Corners/blob/master/checkerboard.png?raw=true)
+
+## New Image Created
+
+![Checkerboard After](https://github.com/JDSuggs/Harris-Corners/blob/master/checkerboard_view_only.png?raw=true)
 
 ## Sources
 1. Checkerboard. Digital Image. Clipart Library. Web. 12 October 2019. <clipart-library.com>.  
