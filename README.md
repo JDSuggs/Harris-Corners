@@ -1,11 +1,9 @@
 # Harris-Corners
 
 Finds corners in images using Harris Corner Detection.  
-Creates new images showing corners found.
+Creates new images showing corners found.  
 
-
-# Sources
-
+## Sources
 1. Checkerboard. Digital Image. Clipart Library. Web. 12 October 2019. <clipart-library.com>.  
 2. Jigsaw Puzzle Vortex. Digital Image. pixabay. Web. 12 October 2019. <pixabay.com>
 3. Landscape. Digital Image. Deviant Art. Web. 12 October 2019. <deviantart.com>.
